@@ -1,0 +1,21 @@
+.team-heading {
+    background: rgba(170, 23, 23, 0.26) !important;
+    border-radius: 16px !important;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+}
+
+.card {
+    background: rgba(255, 255, 255, 0.26) !important;
+    border-radius: 16px !important;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+    backdrop-filter: blur(5.3px) !important;
+    -webkit-backdrop-filter: blur(5.3px) !important;
+    border: 1px solid rgba(255, 255, 255, 0.28) !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+
+.card-header {
+    background-color: rgb(89, 89, 212)  !important;
+    color: white;
+}
