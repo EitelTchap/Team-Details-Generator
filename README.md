@@ -21,13 +21,22 @@ This Application takes in information about employees on a software engineering 
 
 ## Installation
 
-Node.js and npm (inquirer and jest).
+The application should use [Jest](https://www.npmjs.com/package/jest) for running the unit tests and [Inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user.
 
 
 ## Usage 
 
 This application is used to provide a clear summary of members in team and it is all displayed online.
 
+The application will be invoked by using the following command:
+
+```bash
+node index.js
+```
+
+Your application mock-up should be as the following example.
+
+![App Mock-up](./Mockup.png)
 
 ## License
 
@@ -36,14 +45,19 @@ The license used is: MIT
 
 ## Contributions
 
-If you wish to contribute, please contact me on eiteltchapdeu@gmail.com
+If you wish to contribute, please contact me on eiteltchapdeu@gmail.com.
 
 
 ## Tests
 
-To test the application, run the following prompt on the command: "npm run test". Make sure you have installed jest.
+To test the application, make sure you have installed jest and use the following command:
+
+```bash
+npm run test
+```
+
 
 
 ---
 
-© Eitel production. All Rights Reserved.
+© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
