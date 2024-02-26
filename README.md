@@ -56,6 +56,10 @@ To test the application, make sure you have installed jest and use the following
 npm run test
 ```
 
+Test results are all pass, as shown in the below image.
+
+![Test results](./Test.png)
+
 
 
 ---
