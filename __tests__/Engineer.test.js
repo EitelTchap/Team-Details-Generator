@@ -1,4 +1,3 @@
-const { describe } = require("node:test");
 const Engineer = require("../lib/Engineer");
 const Employee = require("../lib/Employee");
 
